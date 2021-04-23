@@ -17,7 +17,7 @@ body{
 
 /* page style */
 
-main{
+#main{
   background-color:#eeeeee;
   margin:2rem;
   padding:1.5rem;
